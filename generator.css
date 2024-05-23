@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #f06, #f79);
+    background: linear-gradient(135deg, rgba(143, 12, 224, 0.717), rgb(195, 104, 104));
 }
 
 .container {
